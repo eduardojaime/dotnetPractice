@@ -1,3 +1,3 @@
-# .NET 5 Practice
+# .NET Practice
 
-This repository contains exercises and sample .NET 5 apps
+This repository contains exercises and sample .NET apps
